@@ -1,0 +1,14 @@
+C:\Users\Moi\Desktop\Formation_net\POO\Exercice6\bankAccount\bankAccount\bin\Debug\bankAccount.exe.config
+C:\Users\Moi\Desktop\Formation_net\POO\Exercice6\bankAccount\bankAccount\bin\Debug\bankAccount.exe
+C:\Users\Moi\Desktop\Formation_net\POO\Exercice6\bankAccount\bankAccount\bin\Debug\bankAccount.pdb
+C:\Users\Moi\Desktop\Formation_net\POO\Exercice6\bankAccount\bankAccount\obj\Debug\bankAccount.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Formation_net\POO\Exercice6\bankAccount\bankAccount\obj\Debug\bankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Formation_net\POO\Exercice6\bankAccount\bankAccount\obj\Debug\bankAccount.exe
+C:\Users\Moi\Desktop\Formation_net\POO\Exercice6\bankAccount\bankAccount\obj\Debug\bankAccount.pdb
+C:\Users\Moi\Desktop\3_3poo\Bank_account-6_7\bankAccount\bin\Debug\bankAccount.exe.config
+C:\Users\Moi\Desktop\3_3poo\Bank_account-6_7\bankAccount\bin\Debug\bankAccount.exe
+C:\Users\Moi\Desktop\3_3poo\Bank_account-6_7\bankAccount\bin\Debug\bankAccount.pdb
+C:\Users\Moi\Desktop\3_3poo\Bank_account-6_7\bankAccount\obj\Debug\bankAccount.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\3_3poo\Bank_account-6_7\bankAccount\obj\Debug\bankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\3_3poo\Bank_account-6_7\bankAccount\obj\Debug\bankAccount.exe
+C:\Users\Moi\Desktop\3_3poo\Bank_account-6_7\bankAccount\obj\Debug\bankAccount.pdb
